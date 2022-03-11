@@ -1,0 +1,77 @@
+    /* body
+    {
+        background-color: black;
+    }
+
+    #home
+    {
+        margin: 50px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        background-color: black;
+        background-image: linear-gradient(rgb(13, 17, 55), rgb(0, 2, 14));
+        margin: 0 auto;
+        width: 670px;
+        padding: 0 2em 1em;
+    } */
+
+    #page1 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: red;
+    background-image: linear-gradient(rgb(13, 17, 55), rgb(0, 2, 14));
+    color: darkslategrey;
+    }
+
+    #homeImage
+    {
+      margin:0 auto;
+      text-align: center;
+
+    }
+
+    h1 
+    { 
+      color: whitesmoke; 
+    }
+
+    h2 
+      { 
+        color: red; 
+      }
+      
+    option
+      { 
+        color: green; 
+      }
+    
+      .firstImage{
+        width:400px;
+        height:400px;
+        position:absolute;
+        z-index:5;
+    }
+    
+    .inner{
+        position:absolute;
+        z-index:1;
+        bottom:0;
+        right:30;
+    }
+
+      #page2 {
+          margin: 50px auto;
+          padding: 50px 30px;
+          width: 540px;
+          height: 350px;
+          position: relative;
+          background-color: orangered;
+          font-family: 'Times New Roman', Times, serif;
+          color: white;
+        display:none;
+      }
+      
+      span { color: red; } */
+      
+    .center {
+           color: rgb(204, 0, 255);
+        text-align: center;
+      } 
